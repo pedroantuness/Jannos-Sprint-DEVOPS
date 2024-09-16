@@ -33,10 +33,6 @@ Agora é so acessar seu navegador e acessar os endpoints.
 
 ***
 
-**Diagrama de classes:**
-![DER.png](src%2Fdocumentacao%2FDER.png)
-***
-
 **Link do vídeo pitch:**
 
     
