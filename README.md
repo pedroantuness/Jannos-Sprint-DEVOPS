@@ -33,9 +33,9 @@ Agora é so acessar seu navegador e acessar os endpoints.
 
 ***
 
-**Link do vídeo pitch:**
+**Link do vídeo explicativo:**
 
-    
+    https://www.youtube.com/watch?v=H-kqcoi-H0I
 
 ***
 
